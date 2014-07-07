@@ -1,4 +1,4 @@
 FitHad
 ======
 
-Weightfting tracking app
+Weightfting tracking app. APK is in the bin folder.
